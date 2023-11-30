@@ -12,7 +12,9 @@
     <img align="center" alt="js" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="js" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="js" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">   
+    <img align="center" alt="js" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img align="center" alt="js" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-                badge&logo=typescript&logoColor=white">
+    
 </div><br/>
 
 Sou um jovem apaixonado por tecnologia, comprometido com as tarefas a mim designadas, estou sempre em busca de oportunidades para crescer e aprender.. Amo desafios que me permitam evoluir cada dia mais!"
